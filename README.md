@@ -13,7 +13,7 @@ Download the file and run
 * Installs the gems that can be seen in the list below,
 * sets up `rspec` and `capistrano`,
 * sets up `simplecov` config,
-* adds some ActionMailer config - host addresses for all environments (production is optional - if yes, asks for address) and default email login data for development environment.
+* adds some ActionMailer config - host addresses for all environments (production is optional - if yes, asks for address). _Important notice_ - you'll have to provide username and password for the email account. 
 
 ### Featured Gems
 
