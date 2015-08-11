@@ -5,7 +5,7 @@
 Download the file and run
 
 ```
-  rails new my_app -m /path/to/file/binarapps_template.rb
+  rails new my_app -m https://raw.githubusercontent.com/binarapps/rails-app-template/master/binarapps_template.rb
 ```
 
 ## Features
